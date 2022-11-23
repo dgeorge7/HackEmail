@@ -1,2 +1,2 @@
 # HackEmail
-Python code for scam email
+Python code for simple phishing email
